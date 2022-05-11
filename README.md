@@ -1,3 +1,5 @@
+# MOVED TO [https://github.com/tempmail-lol/api-javascript](https://github.com/tempmail-lol/api-javascript)
+
 # TempMail.lol JS API
 
 This is an API for the temporary email service [TempMail.lol](https://tempmail.lol).
